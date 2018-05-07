@@ -1,2 +1,3 @@
 # hello-world
-First repository.
+
+Taking the first steps to mastery. Onwards!
